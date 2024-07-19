@@ -1,0 +1,1 @@
+alert("welcome to xubi's first website")
