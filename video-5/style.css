@@ -1,0 +1,27 @@
+td{
+    border: 4px solid black;
+}
+ol{
+    background-color: blue;
+    color: pink;
+}
+tr{
+    background-color: bisque;
+    color: blue;
+}
+td{
+    background-color: rgb(177, 37, 41);
+}
+dt{
+    background-color: green;
+    color: mediumblue;
+}
+dd{
+    background-color: hotpink;
+}
+caption{
+    background-color: red;
+}
+ul{
+    background-color: blueviolet;
+}
